@@ -1,4 +1,4 @@
-# ekoo
+# ekoo(Eco Kids of Ontario)
 Starterhack
 
 To run the folder "ekoo_withDB":
