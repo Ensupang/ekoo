@@ -1,0 +1,3 @@
+# ekoo
+Starterhack
+To run 
