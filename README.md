@@ -11,3 +11,7 @@ $cd ekoo_withDB
 $npm install
 
 $node server.js
+open bush, run:
+$cd ekoo_withDB
+$npm install
+$node server.js
