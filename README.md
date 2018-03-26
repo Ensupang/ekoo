@@ -2,16 +2,10 @@
 
 If this were to be utilized by current eco-schools to increase the accuracy of data collected as well as making students more engaged, we would be want to implement this system within elementary schools nationally, then globally.
 
-To run the folder "ekoo_withDB":
+To run the folder "ekoo":
 
 Open the bash
 
-$cd ekoo_withDB
-
 $npm install
 
-$node server.js
-open bush, run:
-$cd ekoo_withDB
-$npm install
 $node server.js
